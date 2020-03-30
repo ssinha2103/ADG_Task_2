@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Task 2</string>
+    <string name="date_picker">Date Picker</string>
+    <string name="alert_box">Alert Box</string>
+    <string name="snack_bar">Snack Bar</string>
+    <string name="toast_button">Toast Button</string>
+    <string name="progress_bar">Progress Bar</string>
+    <string name="you_are_online">You are online</string>
+    <string name="close">Close</string>
+    <string name="todo">TODO</string>
+</resources>
